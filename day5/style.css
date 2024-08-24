@@ -1,0 +1,45 @@
+body{
+    background-image: url('image/image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover ;
+    height: 100%;
+    
+
+}
+.first h1{
+    font-size: 50px;
+    color: #c11119 ;
+    
+}
+.first {
+    text-align: center;
+   
+}
+.first p{
+    font-size: 20px;
+    color: rgb(176, 33, 39 ) ;
+}
+.first button{
+    font-size: 18px;
+    width: 200px;
+    height: 30px;
+    border-style: none;
+    border-radius: 10px;
+    background-color: hsl(0, 88%, 35%);
+    color: white;
+  
+}
+.first a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+a:visited{
+    color: pink;
+    text-decoration: underline;
+
+}
+
+
